@@ -25,11 +25,14 @@ Aluetieteen kandidaatintyö ruokakaupan ja asutuksen sijaintien suhteesta YKR-ai
 
 Tampereen_ruoka_autiomaat.pdf
 	
-23-Aug-2011 Läntisen Porin joukkoliikennejärjestelmä vaihtoehdot liikennöintikustannusten näkökulmasta
+23-Aug-2011 **Läntisen Porin joukkoliikennejärjestelmä vaihtoehdot liikennöintikustannusten näkökulmasta**
 
 Vapaaehtoisvoimin tehty selvitys paikallisraideliikenteen mahdollisuuksista Porissa.
 
-lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf
+
+[lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf](jpackalen.github.io/lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf)
+
+  
 	
 # TAITTOJA
 	
