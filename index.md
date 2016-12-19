@@ -4,14 +4,14 @@
 
 Harjoitustyö tehtiin Tampereen teknisellä yliopistolla syksyllä 2013 osana Kaupunkiliikenteen suunnittelu -kurssia, joka toteutettiin yhteistyössä Tampereen kaupungin kanssa.
 
-[Link]yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf
+[Link](yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf)
 	
 
 25-Jun-2013 Tapaus Gazprom City / Ohta-keskus . Maankäytön sääntelyä ja kansalaisyhteiskuntaa Pietarissa
 
 Tämän työn tarkoituksena on kuvata ja analysoida lyhyesti niitä elementtejä, jotka vaikuttivat venäläiseen suurhankkeeseen Gazprom Cityyn (myöhemmin Ohta-keskus) ja toisaalta nostaa esiin kansalaisvaikuttamisen käytännön mahdollisuuksia esimerkkitapauksen tasolla. Myöskin tilannekuva esimerkin kautta antaa mahdollisuuden ottaa etäisyyttä suomalaiseen suunnittelujärjestelmään. Työn alussa käsitellään hanketta lähtökohdiltaan, jonka jälkeen keskitytään hankkeen laillisiin näkökulmiin ja sen saamaan kritiikkiin. Nämä tarkastelut tehdään pääosin paikallisen median sähköisten artikkeleiden kautta. Ajallisesti tarkastelu sijoittuu maaliskuusta 2006 vuoden 2010 loppuun.
 
-[Link]HALYAS14_essee_Joona_Packalen.pdf
+[Link](HALYAS14_essee_Joona_Packalen.pdf)
 	
 26-Mar-2013 TARINOITA PARKKIHALLISTA - P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella
 
