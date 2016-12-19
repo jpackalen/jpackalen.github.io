@@ -1,23 +1,23 @@
-**RAPORTTEJA**
+# RAPORTTEJA
 
-07-Feb-2014 Tampereen Itsenäisyydenkadun yleisuunnitelma - harjoitustyö
+07-Feb-2014 **Tampereen Itsenäisyydenkadun yleisuunnitelma - harjoitustyö
 
 Harjoitustyö tehtiin Tampereen teknisellä yliopistolla syksyllä 2013 osana Kaupunkiliikenteen suunnittelu -kurssia, joka toteutettiin yhteistyössä Tampereen kaupungin kanssa.
 
-[Link](yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf)
+[yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf](yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf)
 	
 
-25-Jun-2013 Tapaus Gazprom City / Ohta-keskus . Maankäytön sääntelyä ja kansalaisyhteiskuntaa Pietarissa
+25-Jun-2013 **Tapaus Gazprom City / Ohta-keskus . Maankäytön sääntelyä ja kansalaisyhteiskuntaa Pietarissa
 
 Tämän työn tarkoituksena on kuvata ja analysoida lyhyesti niitä elementtejä, jotka vaikuttivat venäläiseen suurhankkeeseen Gazprom Cityyn (myöhemmin Ohta-keskus) ja toisaalta nostaa esiin kansalaisvaikuttamisen käytännön mahdollisuuksia esimerkkitapauksen tasolla. Myöskin tilannekuva esimerkin kautta antaa mahdollisuuden ottaa etäisyyttä suomalaiseen suunnittelujärjestelmään. Työn alussa käsitellään hanketta lähtökohdiltaan, jonka jälkeen keskitytään hankkeen laillisiin näkökulmiin ja sen saamaan kritiikkiin. Nämä tarkastelut tehdään pääosin paikallisen median sähköisten artikkeleiden kautta. Ajallisesti tarkastelu sijoittuu maaliskuusta 2006 vuoden 2010 loppuun.
 
-[Link](HALYAS14_essee_Joona_Packalen.pdf)
+[HALYAS14_essee_Joona_Packalen.pdf](HALYAS14_essee_Joona_Packalen.pdf)
 	
-26-Mar-2013 TARINOITA PARKKIHALLISTA - P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella
+26-Mar-2013 **TARINOITA PARKKIHALLISTA - P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella
 
 Tampereen keskustan strategisen osayleiskaavan valmistelun osana tehty tutkimus P- Hämpin pysäköintilaitoksen asiakkaiden mielipiteistä keskustan kehittämisestä.
 
-Tarinoita parkkihallista P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella.pdf
+[yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf](Tarinoita parkkihallista P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella.pdf)
 	
 29-May-2012 Ruoka-autiomaiden sijainti Tampereen kaupunkialueella
 
