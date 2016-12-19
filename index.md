@@ -1,4 +1,4 @@
-<BOLD>RAPORTTEJA</BOLD>
+**RAPORTTEJA**
 
 07-Feb-2014 Tampereen Itsenäisyydenkadun yleisuunnitelma - harjoitustyö
 
@@ -31,7 +31,7 @@ Vapaaehtoisvoimin tehty selvitys paikallisraideliikenteen mahdollisuuksista Pori
 
 lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf
 	
-TAITTOJA
+**TAITTOJA**
 	
 28-Aug-2011 Tampereen yliopiston ympäristöpolitiikan ja aluetieteen ainejärjestön, Spatikka ry:n jäsenlehti 2011
 
@@ -41,7 +41,7 @@ http://issuu.com/spatikka/docs/alpakka2011_1
 	
 
 
-ESITYKSIÄ
+**ESITYKSIÄ**
 	
 13-Apr-2012 Joukkoliikennekäytävä raiteille välillä Mäntyluoto-Pori - Potentiaalinen lähiraideliikenteen yhteys?
 
