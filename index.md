@@ -30,7 +30,7 @@ Tampereen_ruoka_autiomaat.pdf
 Vapaaehtoisvoimin tehty selvitys paikallisraideliikenteen mahdollisuuksista Porissa.
 
 
-[lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf](jpackalen.github.io/lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf)
+[lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf](/lantisen_porin_joukkoliikennejarjestelma_vaihtoehdot.pdf)
 
   
 	
