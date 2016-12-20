@@ -1,4 +1,8 @@
 # RAPORTTEJA
+07-Feb-2014 **Magneettivoimaa ja monikeskuksisuutta : Turun seutukunnan kehyskuntien 2000-luvun yleiskaavaselostukset politiikkadokumentteina**
+Pro Gradu tutkielma, jossa tarkastellaan millaisina politiikkadokumentteina Turun seutukunnan kehyskuntien yleiskaavaselostukset näyttäytyvät maankäytön suhteen, kuinka ne välittävät valtakunnallisia tavoitteita ja ilmeneekö seudullisuus kaavaselostuksissa. Tutkielman aineistona on kahdeksan Turun kehyskuntien 2000-luvulla laatimaa yleis- tai osayleiskaavaselostusta, joita analysoidaan tulkitsevan politiikka-analyysin ja kehysanalyysin keinoin. .`
+[http://urn.fi/URN:NBN:fi:uta-201611282697](http://urn.fi/URN:NBN:fi:uta-201611282697)
+
 07-Feb-2014 **Tampereen Itsenäisyydenkadun yleisuunnitelma - harjoitustyö**
 `Harjoitustyö tehtiin Tampereen teknisellä yliopistolla syksyllä 2013 osana Kaupunkiliikenteen suunnittelu -kurssia, joka toteutettiin yhteistyössä Tampereen kaupungin kanssa.`
 [yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf](yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf)
