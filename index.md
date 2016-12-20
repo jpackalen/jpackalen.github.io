@@ -1,6 +1,6 @@
 # RAPORTTEJA
 07-Feb-2014 **Tampereen Itsenäisyydenkadun yleisuunnitelma - harjoitustyö**
-Harjoitustyö tehtiin Tampereen teknisellä yliopistolla syksyllä 2013 osana Kaupunkiliikenteen suunnittelu -kurssia, joka toteutettiin yhteistyössä Tampereen kaupungin kanssa. 
+`Harjoitustyö tehtiin Tampereen teknisellä yliopistolla syksyllä 2013 osana Kaupunkiliikenteen suunnittelu -kurssia, joka toteutettiin yhteistyössä Tampereen kaupungin kanssa.`
 [yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf](yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf)
 	
 
