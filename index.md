@@ -1,5 +1,5 @@
-## RAPORTTEJA
-### 25-Nov-2016 Magneettivoimaa ja monikeskuksisuutta : Turun seutukunnan kehyskuntien 2000-luvun yleiskaavaselostukset politiikkadokumentteina
+# RAPORTTEJA
+## 25-Nov-2016 Magneettivoimaa ja monikeskuksisuutta : Turun seutukunnan kehyskuntien 2000-luvun yleiskaavaselostukset politiikkadokumentteina
 
 `Pro Gradu tutkielma, jossa tarkastellaan millaisina politiikkadokumentteina Turun seutukunnan kehyskuntien yleiskaavaselostukset näyttäytyvät maankäytön suhteen, kuinka ne välittävät valtakunnallisia tavoitteita ja ilmeneekö seudullisuus kaavaselostuksissa. Tutkielman aineistona on kahdeksan Turun kehyskuntien 2000-luvulla laatimaa yleis- tai osayleiskaavaselostusta, joita analysoidaan tulkitsevan politiikka-analyysin ja kehysanalyysin keinoin.`
 [http://urn.fi/URN:NBN:fi:uta-201611282697](http://urn.fi/URN:NBN:fi:uta-201611282697)
