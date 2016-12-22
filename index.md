@@ -17,7 +17,7 @@
 
 26-Mar-2013 **TARINOITA PARKKIHALLISTA - P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella**
 `Tampereen keskustan strategisen osayleiskaavan valmistelun osana tehty tutkimus P- Hämpin pysäköintilaitoksen asiakkaiden mielipiteistä keskustan kehittämisestä.`
-[yleissuunnitelma_itsenäisyydenkatu_lopullinentyo.pdf](Tarinoita parkkihallista P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella.pdf)
+[Tarinoita parkkihallista P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella.pdf](Tarinoita parkkihallista P-Hämpin käyttäjien kokemuksia autoilusta kaupungissa ja keskustan kehittämissuunnista Tampereella.pdf)
 
 
 29-May-2012 **Ruoka-autiomaiden sijainti Tampereen kaupunkialueella**
